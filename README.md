@@ -22,6 +22,8 @@ You sohuld re-calculate your unit size after your bankroll has moved ~15%.
 
 # Sportsbooks
 [NitrogenSports.eu](https://nitrogensports.eu/r/625544) - Nitrogen provides one of the best overral bitcoin sportsbooks, decent lines
+
 [CloudBet.eu](http://cloudbet.eu) - Cloudbet provides the most extensive soccer and one of the best lines.
+
 [Bovada.lv](http://Bovada.lv) - Bovada provides the most extensive live in-play action.
 
